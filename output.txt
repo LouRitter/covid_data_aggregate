@@ -1,0 +1,27 @@
+
+1. Total records in collection:
+429435
+
+2. Total cumulative COVID-19 cases (latest available per country):
+689353754
+
+3. Countries and continents in dataset:
+Countries: 255
+Continents: 6
+
+4. Country with highest and lowest total COVID-19 cases per million (latest data only):
+Highest: Brunei (763599)
+Lowest (non-zero): Yemen (313)
+Lowest (including zero): Turkmenistan (0)
+
+Countries with total_cases_per_million = 0:
+- North Korea
+- Turkmenistan
+
+5. Day with highest number of new cases:
+China on 2022-12-25 with 40475477 cases
+
+6. Smoking stats (latest available):
+Highest % of male smokers: East Timor – 78.1%
+Highest % of female smokers: Montenegro – 44.0%
+Estimated country with highest number of smokers (assuming 50/50 gender split): China – 358610671 smokers
